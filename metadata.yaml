@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24852
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Herford
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24258#The-Rub-iy-t-of-a-Persian-Kitten
 gutenberg_bookshelf:
 - Humor
 - Animals-Domestic
