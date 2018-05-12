@@ -1,0 +1,34 @@
+_repo: The-Rub-iy-t-of-a-Persian-Kitten_24258
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herford, Oliver
+    alias: Herford, O. (Oliver)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '24852'
+    url: http://www.gutenberg.org/2009/agents/24852
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Herford
+description: Illustrated by the author.
+gutenberg_bookshelf:
+- Humor
+- Animals-Domestic
+gutenberg_issued: '2008-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24258'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Omar Khayyam -- Parodies, imitations, etc.'
+- !lcsh 'Persian cat -- Poetry'
+- !lcc 'PS'
+- !lcsh 'Cats -- Poetry'
+- !lcsh 'Humorous poetry'
+title: The Rubáiyát of a Persian Kitten
+url: http://www.gutenberg.org/ebooks/24258
